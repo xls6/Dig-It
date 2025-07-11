@@ -1,4 +1,4 @@
-# Set up 🤝
+# Set up
 
 ### Step 1/3
 
