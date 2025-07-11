@@ -15,8 +15,6 @@ Equip your shovel
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4b6df8b1-eb1b-40d7-a089-80f4a6b58ffc" />
 
-_Meteor Shovel_
-
 ### Step 3/3
 
 Press F1 to start your macro and enjoy!
