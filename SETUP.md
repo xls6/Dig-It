@@ -17,4 +17,8 @@ Equip your shovel
 
 ### Step 3/3
 
-Press F1 to start your macro and enjoy!
+Set the right state for your shovel
+
+<img width="344" height="506" alt="image" src="https://github.com/user-attachments/assets/ff4084f3-0f8d-4942-a352-9822b57059a9" />
+
+**Press F1 to start/stop your macro and enjoy!**
