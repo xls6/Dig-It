@@ -1,1 +1,4 @@
-# Dig-It
+# Dig It 🪓
+
+🚀 Features
+
