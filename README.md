@@ -35,7 +35,8 @@
 
 Face your character like in the screenshot
 
-<img width="1050" height="797" alt="image" src="https://github.com/user-attachments/assets/8a7f3807-5eb0-478e-845f-964a9d46a08b" />
+<img width="1012" height="763" alt="image" src="https://github.com/user-attachments/assets/738c4c96-0a2b-40ec-8b5b-dd686a7bcf82" />
+
 
 _Screenshot taken at summer island_
 
